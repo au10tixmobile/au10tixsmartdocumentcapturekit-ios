@@ -15,6 +15,7 @@ In order for XCode to clone the package's private targets, you will need to add 
 <img width="469" alt="Screenshot 2024-02-12 at 15 47 27" src="https://github.com/au10tixmobile/au10tixsmartdocumentcapturekit-ios/assets/94300864/b4184aee-3d6c-43a7-995a-f59c49391d99">
 
 <img width="760" alt="Screenshot 2024-02-12 at 15 55 16" src="https://github.com/au10tixmobile/au10tixsmartdocumentcapturekit-ios/assets/94300864/7041e1d3-281d-4f08-bd26-4fd597de0795">
+
 *Replace ghp_**************** with your personal Github_pat from support.
 
 ### SPM Cloning
