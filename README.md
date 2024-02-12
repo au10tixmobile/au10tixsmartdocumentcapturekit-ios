@@ -7,7 +7,7 @@ IOS `Au10tixSmartDocumentCaptureKit` is a Swift Package Manager repository that 
 ### Github PAT
 In order to use this repo you will need a Github Personal Access Token that includes this repo scope. you can contact Au10tix support for that.
 
-*You will need to provide a Github account e-mail address for that.*
+**You will need to provide a Github account e-mail address for that.**
 
 ### Authentication
 In order for XCode to clone the package's private targets, you will need to add an 'Internet Password Item' to your 'Keychain Access' application. Her's how you do it.
@@ -16,7 +16,7 @@ In order for XCode to clone the package's private targets, you will need to add 
 
 <img width="760" alt="Screenshot 2024-02-12 at 15 55 16" src="https://github.com/au10tixmobile/au10tixsmartdocumentcapturekit-ios/assets/94300864/7041e1d3-281d-4f08-bd26-4fd597de0795">
 
-*Replace ghp_**************** with your personal Github_pat from support.*
+**Replace ghp_**************** with your personal Github_pat from support.**
 
 ### SPM Cloning
 In your XCode -> Project -> Package Dependencies add this repo with the cloning url.
