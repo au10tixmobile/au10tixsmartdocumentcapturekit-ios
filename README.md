@@ -24,4 +24,4 @@ In your XCode -> Project -> Package Dependencies add this repo with the cloning 
 Now you can import SDK & start working. 
 
 ## Documentation
-Her you will have more detailed documentation for Au10tix iOS SDK's (ios-implementation guide)(https://documentation.au10tixservices.com/mobile-sdk/ios/sdk-implementation-guide/introduction/).
+Her you will have more detailed documentation for Au10tix iOS SDK's [ios-implementation guide](https://documentation.au10tixservices.com/mobile-sdk/ios/sdk-implementation-guide/introduction/).
