@@ -5,7 +5,7 @@ IOS `Au10tixSmartDocumentCaptureKit` is a Swift Package Manager repository that 
 ## Getting Started
 
 ### Github PAT
-In order to use this repo you will need a Github Personal Access Token that includes this repo scope. you can contact Au10tix support for that.
+In order to use this repo you will need a Github Personal Access Token that includes this repo scope. you need to contact Au10tix support for that.
 
 *You will need to provide a Github account e-mail address for that.
 
