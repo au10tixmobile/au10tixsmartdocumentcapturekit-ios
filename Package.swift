@@ -21,18 +21,18 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixCore",
-          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/3.28.0.zip",
-          checksum: "d9124ee6ebb0989c5a5590f7de5d26419bb0e0cca016eeaae457f4ee71c15b2e"
+          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/4.0.0.zip",
+          checksum: "ed5691a5d3bf0e519daa6c0e814c9900d77bd6db00aac68b1931afc87d6683f6"
         ),
         .binaryTarget(
           name: "Au10tixSourceManager",
-          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
+          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/4.0.0.zip",
+          checksum: "8bc55b8fe260a75fcd1a191e2c0f02faf1c10b805c4cbf7c00ea8eb74c66ec1f"
         ),
         .binaryTarget(
           name: "Au10tixSmartDocumentCaptureKit",
-          url: "https://github.com/au10tixmobile/Au10tixSmartDocumentCaptureKit/archive/refs/tags/3.28.0.zip",
-          checksum: "27de9e8fca813f867ac3081ea343447209c9f118bc0d531db0445c0ebffd466d"
+          url: "https://github.com/au10tixmobile/Au10tixSmartDocumentCaptureKit/archive/refs/tags/4.0.0.zip",
+          checksum: "aca0174ee7b2f2f66a1aa80e6576e4b1fd8782820e0134ca581caaf536a7e464"
         )
     ]
 )
