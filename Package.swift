@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixSmartDocumentCaptureKit",
-          url: "https://github.com/au10tixmobile/Au10tixSmartDocumentCaptureKit/archive/refs/tags/4.0.0.zip",
-          checksum: "aca0174ee7b2f2f66a1aa80e6576e4b1fd8782820e0134ca581caaf536a7e464"
+          url: "https://github.com/au10tixmobile/Au10tixSmartDocumentCaptureKit/archive/refs/tags/4.1.0.zip",
+          checksum: "468c9d3bc2423b4c19dbbc65b60bb054276ff770524a5759766200e4e162e723"
         )
     ]
 )
